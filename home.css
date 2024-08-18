@@ -5,7 +5,7 @@
 
 .main{
   width: 100%;
-  background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../web-application-development-process.png);
+  background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(web-application-development-process.png);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -16,10 +16,6 @@
   width: 1200px;
   height: 75px;
   margin: auto;
-  /* background-color: brown;
-  padding-inline-end: 100%; */
-
-
 
 }
 
@@ -82,10 +78,10 @@ ul li a:hover{
   font-family: 'Times New Roman';
   width: 200px;
   height: 40px;
-  background: transparent;
+  background: #fff;
   border: 1px solid #30ce99b2;
   margin-top: 13px;
-  color: #fff;
+  color:black;
   border-right: none;
   font-size: 16px;
   float: left;
